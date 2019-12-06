@@ -42,7 +42,7 @@ steps:
     checksum:
     - sha256
     files:
-    - "bin/kontainer-engine-driver-example-*"
+    - "bin/kontainer-engine-driver-cloudstack-*"
     prerelease: true
     api_key:
       from_secret: github_token

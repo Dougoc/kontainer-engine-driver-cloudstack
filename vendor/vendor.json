@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "8xoATvMhzfLQc/sxjW4MMOv9aMQ=",
+			"path": "github.com/xanzy/go-cloudstack/cloudstack",
+			"revision": "f0c20be2bc3a5db9aef368cc73a9ffa80a62d6da",
+			"revisionTime": "2019-11-13T13:57:25Z"
+		}
+	],
+	"rootPath": "github.com/kontainer-engine-driver-cloudstack"
+}
